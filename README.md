@@ -1,7 +1,11 @@
 # Superstore-Returns-Project-READ.ME
 Please refer to the specific sections for detailed information on each aspect of the project
 
-https://tinyurl.com/Superstore-Returns-Project
+## Demo Video
+* https://www.loom.com/share/0d8c68acc19a4d36a39d49d4536daf46?sid=b718ec00-ab20-498a-a009-d89114e34855
+
+## Link to Project 
+* https://tinyurl.com/Superstore-Returns-Project
 ## Table of Contents
 ### Introduction
 #### Part 1: What is Causing Returns?
