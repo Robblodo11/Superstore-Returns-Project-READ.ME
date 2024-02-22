@@ -49,7 +49,9 @@ The aim of this project was to analyze the high number of returned orders at the
 #### Part 2: Building a Dashboard for Monitoring Returns
 * Dashboard Mockup
   * Low fidelity mockup of the dashboard with 3 different variations of potential dashboards.
-  ![image0 (1)](https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/4f6b7124-56f0-4600-be0c-0d80cf89708e)
+  1) ![image0 (1)](https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/4f6b7124-56f0-4600-be0c-0d80cf89708e)
+  2) ![image1 (1)](https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/ce4b18e6-936e-45cc-b375-45a232599ecc)
+  3) ![image2](https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/1420fba3-34cf-4eed-9fb0-9ca89976c2ae)
 * Template Creation
   * Creation of a template for the dashboard using empty containers to match the mockups.
 * Adding Worksheets to Dashboard
