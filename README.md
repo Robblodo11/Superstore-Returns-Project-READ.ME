@@ -26,7 +26,7 @@ Deployment for this Tableau project requires Tableau Server or Tableau Online fo
 * Story Arc Construction
 #### Part 4: Conclusion and Proposed Next Steps
 
-
+----------------------------------
 ### Introduction
 The aim of this project was to analyze the high number of returned orders at the Superstore. Prepared an analysis for the CEO to understand the causes of returns and suggested strategies to reduce them.
 
