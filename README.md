@@ -1,6 +1,9 @@
 # Superstore-Returns-Project-READ.ME
 Please refer to the specific sections for detailed information on each aspect of the project
 
+## Deployment Instructions
+Deployment for this Tableau project requires Tableau Server or Tableau Online for hosting. System requirements include a supported web browser for accessing the Tableau dashboard, such as Google Chrome or Mozilla Firefox, and stable internet connectivity. Additionally, the project's compatibility relies on the version of Tableau Desktop used to create it, with the latest recommended for optimal performance.
+
 ## Demo Video
 * https://www.loom.com/share/0d8c68acc19a4d36a39d49d4536daf46?sid=b718ec00-ab20-498a-a009-d89114e34855
 
